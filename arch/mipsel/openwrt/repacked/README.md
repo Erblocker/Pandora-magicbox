@@ -1,0 +1,1 @@
+请自行将在wmstudyservice.WSDL下添加index.xml
