@@ -1,2 +1,2 @@
 # Pandora-magicbox
-a http server of third ruiyi-server based on nginx
+### 注意，这个项目的性质正如这个名字一般，只要打开了，就没什么好东西
