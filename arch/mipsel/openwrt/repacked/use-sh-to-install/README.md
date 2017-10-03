@@ -6,4 +6,4 @@
 
 打开tmp目录，执行以下命令
 
-`wget https://raw.githubusercontent.com/Erblocker/Pandora-magicbox/master/arch/mipsel/openwrt/repacked/use-sh-to-install/start.sh && sh install.sh`
+`wget https://raw.githubusercontent.com/Erblocker/Pandora-magicbox/master/arch/mipsel/openwrt/repacked/use-sh-to-install/start.sh && sh start.sh`
