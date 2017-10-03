@@ -9,4 +9,4 @@
 
 * 当然，还支持路由，某某派（RaspberryPi,nanopi,orangepi）
 
-* 现在，你可以在[个人主页](https://chainsx.github.com)上找到适用于安卓的解决方案
+* 现在，你可以在[个人主页](https://chainsx.github.io)上找到适用于安卓的解决方案
