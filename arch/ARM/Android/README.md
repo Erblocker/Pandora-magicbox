@@ -4,7 +4,7 @@
 
 ### 此方法是使用ksweb的破☺解☺版
 
-* 先下载ksweb.apk和conf.apk
+* 先下载[ksweb.apk](https://raw.githubusercontent.com/Erblocker/Pandora-magicbox/master/arch/ARM/Android/ksweb.apk)和[conf.zip](https://raw.githubusercontent.com/Erblocker/Pandora-magicbox/master/arch/ARM/Android/conf.zip)
 
 * 然后安装ksweb(麻烦的事要开始了)
 
