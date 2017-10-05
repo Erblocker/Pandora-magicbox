@@ -5,8 +5,8 @@
 
 * 要直播什么的，选择YRSSF吧！
 
-* 这个可以说是破解专版，现在最常用的还是在[arch/ARM/Linux/Android](https://github.com/Erblocker/Pandora-magicbox/tree/master/arch/ARM/Android)的适用于安卓的方法
+* 这个可以说是破解专版，现在最常用的还是在[这里](https://github.com/Erblocker/Pandora-magicbox/blob/master/end-method/README.md)的适用于安卓的方法
 
 * 当然，还支持路由，某某派（RaspberryPi,nanopi,orangepi）
 
-* 现在，你可以在[个人主页](https://chainsx.github.io)上找到适用于安卓的解决方案
+* 现在，你可以浏览[NoPad](https://nopad.org)主页来获取更多信息
