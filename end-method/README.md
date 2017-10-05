@@ -2,7 +2,7 @@
 
 ### 尽量的简化了再简化了的步骤
 
-自己改了一个软件，作为破解专版，还杀了一只鸡祭天
+自己改了一个软件，作为破解专版，还杀了一只鸡祭天（呵呵，吃鸡吗？）
 
 * 下载[AndroPHP](https://raw.githubusercontent.com/Erblocker/Pandora-magicbox/master/end-method/server.apk)（这是我改过的，不然的话，代理会不成功）和配置文件[config.zip](https://raw.githubusercontent.com/Erblocker/Pandora-magicbox/master/end-method/config.zip)
 
@@ -17,3 +17,5 @@
 *然后呢，就不说多了。。。。。。
 
 有问题的话发issue
+
+我是某地七中英语社社长，我姓王
