@@ -6,11 +6,19 @@
                                              
                                              
  UUU     UUU NNN      NNN IIIII XXX     XXXX 
- UUU     UUU NNNN     NNN  III    XX   xXX   
- UUU     UUU NNNNN    NNN  III     XX xXX    
- UUU     UUU NNN NN   NNN  III      XXXX     
- UUU     UUU NNN  NN  NNN  III      xXX      
- UUU     UUU NNN   NN NNN  III     xXXXX     
- UUU     UUU NNN    NNNNN  III    xXX  XX    
-  UUUuuuUUU  NNN     NNNN  III   xXX    XX
-    UUUUU    NNN      NNN IIIII xXXx    xXXx
+ 
+ UUU     UUU NNNN     NNN  III    XX   xXX   
+
+ UUU     UUU NNNNN    NNN  III     XX xXX   
+
+ UUU     UUU NNN NN   NNN  III      XXXX     
+
+ UUU     UUU NNN  NN  NNN  III      xXX      
+
+ UUU     UUU NNN   NN NNN  III     xXXXX     
+
+ UUU     UUU NNN    NNNNN  III    xXX  XX    
+
+  UUUuuuUUU  NNN     NNNN  III   xXX   XX
+  
+   UUUUU    NNN      NNN IIIII xXXx    xXXx
