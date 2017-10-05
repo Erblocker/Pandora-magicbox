@@ -2,7 +2,7 @@
 
 ## 请按步骤来
 
-### 此方法是使用ksweb的破☺解☺版
+### 此方法是使用ksweb的破☺解☺版（现在这是老方法，比较复杂，新方法请参照end-method里来）
 
 * 先下载[ksweb.apk](https://raw.githubusercontent.com/Erblocker/Pandora-magicbox/master/arch/ARM/Android/ksweb.apk)和[conf.zip](https://raw.githubusercontent.com/Erblocker/Pandora-magicbox/master/arch/ARM/Android/conf.zip)
 
