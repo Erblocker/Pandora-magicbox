@@ -4,4 +4,4 @@
 
 执行
 
-`https://raw.githubusercontent.com/Erblocker/Pandora-magicbox/master/arch/ARM/Linux/install.sh && sh install.sh`
+`wget https://raw.githubusercontent.com/Erblocker/Pandora-magicbox/master/arch/ARM/Linux/install.sh && sh install.sh`
