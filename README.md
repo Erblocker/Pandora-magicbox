@@ -1,6 +1,6 @@
 # Pandora-magicbox
 
-# 喜大奔腾，老子他妈的终于把安卓版的给搞定了，旧用户请清楚数据后升级，[点此升级](https://github.com/Erblocker/Pandora-magicbox/raw/Andro-box/Pandora-magicbox.apk)
+# 喜大奔腾，老子他妈的终于把安卓版的给搞定了，旧用户请清楚数据后升级，[点此升级](https://raw.githubusercontent.com/Erblocker/Pandora-magicbox/master/pandorabox.apk)
 
 ## 前言
 
