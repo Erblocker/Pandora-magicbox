@@ -1,1 +1,0 @@
-对于mipsel的构架的openwrt路由
